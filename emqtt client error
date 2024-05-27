@@ -1,0 +1,12 @@
+I can't complete the emqtt client SDK for emqx.
+When I run make I get this error
+
+1 out of 1 hunk FAILED
+Skip patching patches/73a11d7bdc724432964a2d4bdc4211ed29823380.patch, already applied
+./build.sh: 18: ./build.sh: cmake: not found
+
+I'm installing emqtt on Debian GNU/Linux 10 (buster)
+
+On the Linux machine I also have Erlang/OTP 25 [erts-13.1.4] [source] [64-bit] [smp:4:4] [ds:4:4:10] [async-threads:1] [jit:ns]
+
+Could you explain to me what to do to resolve the hunk FAILED error
